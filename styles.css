@@ -1,6 +1,4 @@
-
-/* Your CSS Code here. */
-    body {
+body {
       font-family: Arial, sans-serif;
       max-width: 800px;
       margin: auto;
@@ -24,4 +22,3 @@
       text-decoration: none;
       color: #0073b1; /* LinkedIn blue */
     }
-  </style>
